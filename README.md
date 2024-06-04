@@ -16,10 +16,16 @@ Contact
 This repository includes projects from diverse domains such as:
 
 Exploratory Data Analysis (EDA)
+
 Machine Learning
+
 Deep Learning
+
 Natural Language Processing (NLP)
+
 Time Series Analysis
+
 Data Visualization
+
 
 Each project folder contains a Jupyter Notebook or Python script, along with datasets and any additional resources needed.
