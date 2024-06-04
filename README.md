@@ -1,4 +1,6 @@
 Data Science Projects
+
+
 Welcome to my GitHub repository for Data Science Projects! This repository contains various data science projects I've worked on, showcasing my skills and expertise in data analysis, machine learning, and data visualization. Each project is self-contained, with detailed documentation and all necessary resources for replication and understanding.
 
 Table of Contents
